@@ -1,0 +1,22 @@
+#top-header{
+  font-family: Cambria, Times, 'Times New Roman', serif;
+  color: #356d00;
+  text-align: center;
+}
+
+.second-header{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #4d8b13;
+}
+
+#def{
+  font-weight: 700;
+}
+
+.ingredients, .steps {
+  font-size: 18px;
+}
+
+.ingredients{
+  font-weight: bold;
+}
